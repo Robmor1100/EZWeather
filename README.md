@@ -18,6 +18,8 @@ In its simplest form, this is a weather app. When given a city, it will display 
 
 Clone the repositoryand play  around with it.
 
+or just vist the website: https://robmor1100.github.io/Robert-s-weather-app/
+
 
 
 ## Usage
